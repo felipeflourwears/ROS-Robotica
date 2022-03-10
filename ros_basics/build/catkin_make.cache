@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/luisfe/Documents/ros_basics/devel -DCMAKE_INSTALL_PREFIX=/home/luisfe/Documents/ros_basics/install -G Unix Makefiles
