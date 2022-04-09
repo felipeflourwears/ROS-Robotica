@@ -1,0 +1,2 @@
+control__module:puzzlebot_control:puzzlebot_gazebo:puzzlebot_world:robot_vision
+-DCATKIN_DEVEL_PREFIX=/home/luis/Documents/Reto_6_Semestre/Reto_workspace_image_processing/devel -DCMAKE_INSTALL_PREFIX=/home/luis/Documents/Reto_6_Semestre/Reto_workspace_image_processing/install -G Unix Makefiles

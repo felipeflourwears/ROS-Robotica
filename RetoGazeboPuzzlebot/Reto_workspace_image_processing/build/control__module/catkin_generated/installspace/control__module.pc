@@ -1,0 +1,8 @@
+prefix=/home/luis/Documents/Reto_6_Semestre/Reto_workspace_image_processing/install
+
+Name: control__module
+Description: Description of control__module
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
