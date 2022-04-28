@@ -1,0 +1,2 @@
+puzzlebot_control:puzzlebot_gazebo:puzzlebot_msgs:puzzlebot_navigation:puzzlebot_world
+-DCATKIN_DEVEL_PREFIX=/home/luisfe/Documents/gitAldo/TE3002B_CSF/Robots_Diferenciales/puzzlebot_sim_ws/devel -DCMAKE_INSTALL_PREFIX=/home/luisfe/Documents/gitAldo/TE3002B_CSF/Robots_Diferenciales/puzzlebot_sim_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/luisfe/Documents/gitAldo/TE3002B_CSF/Robots_Diferenciales/puzzlebot_sim_ws/devel
+
+Name: puzzlebot_msgs
+Description: Description of puzzlebot_msgs
+Version: 0.0.0
+Cflags: -I/home/luisfe/Documents/gitAldo/TE3002B_CSF/Robots_Diferenciales/puzzlebot_sim_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs std_msgs message_runtime geometry_msgs
