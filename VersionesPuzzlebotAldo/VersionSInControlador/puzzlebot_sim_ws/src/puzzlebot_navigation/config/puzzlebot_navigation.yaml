@@ -1,0 +1,5 @@
+puzzlebot_navigation:
+  parameters:
+    base: 0.191
+    radius: 0.05
+    odometry_pub_rate: 20
