@@ -1,0 +1,8 @@
+prefix=/home/luisfe/Documents/gitAldo/TE3002B_CSF/Robots_Diferenciales/puzzlebot_sim_ws/devel
+
+Name: puzzlebot_world
+Description: Description of puzzlebot_world
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
