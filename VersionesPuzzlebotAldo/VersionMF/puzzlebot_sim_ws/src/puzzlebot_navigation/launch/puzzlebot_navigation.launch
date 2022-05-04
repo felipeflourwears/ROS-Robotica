@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="puzzlebot_odometry" pkg="puzzlebot_navigation" type="puzzlebot_odometry.py"
+    output="screen"/>
+    <rosparam command="load" file="$(find puzzlebot_navigation)/config/puzzlebot_navigation.yaml" />
+</launch>
